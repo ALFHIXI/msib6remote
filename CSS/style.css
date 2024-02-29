@@ -1,0 +1,65 @@
+
+body {
+    background-image: url("../Image/OIP.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif,;
+    margin: 10;
+    padding: 15;
+}
+
+p {
+    text-align: justify;
+}
+
+fieldset {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid rgb(234, 16, 16);
+}
+
+legend {
+    font-size: 24px;
+    color: rgb(26, 28, 31);
+    font-family: 'times new roman', Times, serif;
+}
+
+ol {
+    list-style-type: upper-alpha;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    display: block;
+    margin: auto; 
+    margin-bottom: 20px; 
+}
+
+fieldset,legend{
+    border-width: 1px;
+    border-color:rgb(51, 104, 37);
+    border-radius: 30px;
+}
+
+legend{
+    border-width: 1px;
+    padding: 10px;
+    background-color:rgb(0, 143, 78);
+    color: rgb(247, 203, 203);
+    font-weight: bold;
+}
+
+table {
+    padding: 20px;
+    margin: auto;
+  }
+
+  
